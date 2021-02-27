@@ -10,10 +10,7 @@ jobs:
           directory=$(cat config.json | jq .directory)
           output_format=$(cat config.json | jq .output_format)
       - run: |
-          docker run --rm -u root --init \
-            -v $PWD:/home/marp/app/ \
-            -e LANG=$LANG marpteam/marp-cli flutter/slide.md --${output_format}
-            -o ${directory}.${output_format}
+          docker run --rm -u root --init -v $PWD:/home/marp/app/　-e LANG=$LANG marpteam/marp-cli flutter/slide.md --${output_format} -o ${directory}.${output_format}
       - uses: actions/upload-artifact@v2
         with:
           name: output_slide
