@@ -5,7 +5,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - run: sudo docker run --rm --init -v $PWD:/home/marp/app/ -e LANG=$LANG marpteam/marp-cli flutter/slide.md --pdf
+      # - run: docker run --rm --init -v $PWD:/home/marp/app/ -e LANG=$LANG marpteam/marp-cli flutter/slide.md --pdf
+      - run: docker run --entrypoint sh --rm --init -v $PWD:/home/marp/app/ -e LANG=$LANG marpteam/marp-cli -c "ls -al flutter/"
       - uses: actions/upload-artifact@v2
         with:
           name: my-artifact
