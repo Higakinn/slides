@@ -5,7 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - run: apt-get update & apt-get install jq
+      - run: sudo apt-get update & sudo apt-get install jq
       - run: |
           directory=$(cat config.json | jq .directory)
           output_format=$(cat config.json | jq .output_format)
