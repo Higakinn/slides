@@ -138,22 +138,41 @@ javaににていて、そんなに難しくはない印象
 
 
 ---
-# 実装例
-```dart
-class WidgetSample extends StatelessWidget {
+# 実装例1
+<style>
+  pre, code {
+    font-size: 22px;
+  }
+</style>
+
+```Dart
+//SampleApp→自分で作成した画面全体のWidget
+void main() => runApp(SampleApp());
+
+// statelesswidget・・State（状態）を持たないWidget
+class SampleApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return Scaffold(//各画面のベースとなるレイアウトを作るために用いるWidget
-      appBar:AppBar(
-        title:Text('AppBar'),
-      ),
-      body: Center(//body
-        child: Text("hello world"),
-      ),
+    //Android系の見た目や挙動で統一するためのWidget
+    return MaterialApp(
+        home: Scaffold(//アプリのタイトル欄と背景を用意
+          appBar: AppBar(
+            title: Text('AppBar'),
+          ),
+          body: Center(
+            child: Text("hello world"),
+          ),
+        )
     );
   }
 }
+
 ```
+↑のように実装すると・・・
+<!-- ![bg right 95%](img/demo.drawio.svg) -->
+![bg right 95%](img/widget.drawio.svg)
+
+
 ---
 # 実行結果
 |  ios  |  Android | Web|
@@ -163,9 +182,64 @@ class WidgetSample extends StatelessWidget {
 簡単に３つアプリの開発が可能！！！
 
 ---
+# 実装例2
+<style>
+  pre, code {
+    font-size: 15px;
+  }
+</style>
 
+```dart
+import 'package:flutter/material.dart';
+
+void main() => runApp(SampleApp());
+
+class SampleApp extends StatefulWidget {
+  @override
+  SampleState createState() => new SampleState();
+}
+
+class SampleState extends State<SampleApp> {
+  int count = 0;
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      home: Scaffold(
+        appBar: AppBar(
+            title: Text("stateful sample")
+        ),
+        body: Center(
+          child: Column(
+            mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+            children: [
+              RaisedButton(onPressed: ()=>{
+                // 再描画する
+                setState(()=> count++)
+              },
+              child: Text('press',style: TextStyle(fontSize: 30)),
+              ),
+              Text('count: $count',style: TextStyle(fontSize: 30))
+            ],
+          ),
+        ),
+      ),
+    );
+  }
+}
+```
+![bg right 95%](img/state.drawio.svg)
+
+---
+# 実行結果
+|  ios  |  Android | Web|
+| :---: | :---: | :---:|
+| ![height:300](img/2021-03-01-00-23-59.png)  | ![height:300](img/Screenshot_1614526383.png)  | ![height:300](img/2021-03-01-00-03-01.png)|
+<!-- ![](2021-03-01-00-23-59.png) -->
+簡単に３つアプリの開発が可能！！！
+
+
+---
 # demoアプリ紹介
-* このアプリはwebには対応してません
 
 ### 概要 
 1. スマホのカメラの映像ソースをrtmpでpush
