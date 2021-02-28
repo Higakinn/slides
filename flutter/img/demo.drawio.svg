@@ -1,0 +1,113 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="507px" height="227px" viewBox="-0.5 -0.5 507 227" content="&lt;mxfile host=&quot;embed.diagrams.net&quot; modified=&quot;2021-02-28T05:52:31.729Z&quot; agent=&quot;5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.53.2 Chrome/87.0.4280.141 Electron/11.2.1 Safari/537.36&quot; etag=&quot;OE5lqbNjAQEXi6J_IXvq&quot; version=&quot;14.4.3&quot; type=&quot;embed&quot;&gt;&lt;diagram id=&quot;dOnTiIgz-sYEw4zR960Y&quot; name=&quot;ページ1&quot;&gt;zVhdk6I4FP01edTiQxAeRXH2oadqqvphZ5+mIkTIdiBMiIr76/cGgoDA2D3tVq1d1ZCTm5Ccc+4liuxtVn0RuEi/8pgwZBlxhewdsizbX8N/BVwbwLWdBkgEjRvI7IBX+g/RoKHRE41JOQiUnDNJiyEY8TwnkRxgWAh+GYYdORs+tcAJGQGvEWZj9E8ay7RBPWvd4X8QmqTtk03Xb3oy3AbrnZQpjvmlB9khsreCc9ncZdWWMMVdy0szbj/Te1uYILl81wCrGXHG7KQ3hyyXwdjgyGEKWKG86m27P0+87ViUtSgbCDC9ouo64S5R15SV7UTw9Gaupkdv/DatRWIgVze5kClPeI5Z2KGB4Kc8JmrJBrS6mBfOCwBNAP8mUl61U/BJcrUEmTHdSyoqv/fu/1JTLR3d2lV65rpx1Y0xlZrdkp9EpNeu6VNb6MVorr8QnhEprhAgCMOSnof+wdqGyS3uNvQbpzX7OmNWK+0XnTD22hlOIbFIiNSjOr3hpreMDqpdMOMIe9YRB/FLDV/wAdJ8wDtmNMnhPgIOiQDgTISkkEgb3ZHROG4kJuAofKjnU+wXaiv15pwAObtpPVrzwqSkmsp8PeEguQa66FHG0rTd9YDihZ7pd5VrQ/jxWJLPijLO0jyheTWSYZgol5RK8lrg2qwXqMRDcWYNPuJzljfLufNl69NLVxbNtmqnvZK4NuaJHPD0K6eaI1aeU7tEJov/U/HKgZjvbYlSjV75Us2uftWtDxWwVpymgPxHRe3dihoTit4RXhcGIsIzaeqDYuj2FlXbjnGZ3uju0VhKwd/IljMOhWiX81yJc6SMtRCybMdQf4AzVcu+8ZJKyicL2MtdwIFLybOJCieVygE/SUZzeHp7IDGmqiPso1DbzKpEnZuWUDtoRJYxOcOlXEbA1o8ihZX/oM2lELwAR1Hlp+dktDdMaMsfJ7Q/kc/mUxLaeSy/SsaeYIbhutvtLO0P1ZrVeaRNz0mTYt45aVt/RraDHtfzzMCGHtA4pqTbjrZkC++ogNmbZeWqbNwma8+c1oRlciIvXLyVyyJ6jiFGRw9rosTbE5bwn+EI97EjWgZoVp/a+0J9xhQBjt6Sunb3tDvWHwipH7Ypi14yt40jrVT5CfR6dqmU6mvJRm3a2kdxvlpSOJ4cKbwVxDKCJ1r7GEsMF4XDsXnP4A1RLg4C53G5gKTYWyv1HmInCV5cmJa3LPLkCdqa99nujrV1vLG0LfYpab3H0n7oONNPQJ1KE+lyn437vQGfW6pMHCVHDM/S6TpDNp2JTPGcMZ0Q+QQ+/TGf4QoFAfI2KHSQHyA/rJEd8rcotJFnoo2tb/w9Cn3k2WjjqWDPQ547kgOYkR98p2ro/d8DpkQe2uAJQq0f237qJWd9vKJBs/sy3xz8u19E7PBf&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <path d="M 296 126 L 369.63 126" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 374.88 126 L 367.88 129.5 L 369.63 126 L 367.88 122.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 126px; margin-left: 336px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; background-color: #ffffff; white-space: nowrap; ">
+                                <font style="font-size: 18px">
+                                    hls
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="336" y="129" fill="#000000" font-family="Helvetica" font-size="11px" text-anchor="middle">
+                    hls
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 128px; margin-left: 342px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; background-color: #ffffff; white-space: nowrap; ">
+                                <br/>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="342" y="131" fill="#000000" font-family="Helvetica" font-size="11px" text-anchor="middle"></text>
+            </switch>
+        </g>
+        <rect x="186" y="91" width="110" height="70" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 108px; height: 1px; padding-top: 126px; margin-left: 187px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                nginx
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="241" y="130" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    nginx
+                </text>
+            </switch>
+        </g>
+        <path d="M 106 126 L 179.63 126" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 184.88 126 L 177.88 129.5 L 179.63 126 L 177.88 122.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 126px; margin-left: 146px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; background-color: #ffffff; white-space: nowrap; ">
+                                <font style="font-size: 18px">
+                                    rmtp
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="146" y="129" fill="#000000" font-family="Helvetica" font-size="11px" text-anchor="middle">
+                    rmtp
+                </text>
+            </switch>
+        </g>
+        <rect x="16" y="41" width="90" height="170" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 70.62 53.67 C 71.46 53.67 71.82 53.26 71.82 52.33 C 71.82 51.52 71.35 51.05 70.62 51.05 L 51.7 51.05 C 50.86 51.05 50.6 51.87 50.6 52.33 C 50.6 52.91 51.07 53.67 51.7 53.67 Z M 94.63 180.49 L 94.63 67.15 L 27.79 67.15 L 27.79 180.49 Z M 61.29 202.34 C 63.59 202.34 67.11 200.31 67.11 195.6 C 67.11 192.29 64.49 189.26 61.29 189.26 C 57.67 189.26 55.31 192.58 55.31 195.6 C 55.31 200.25 58.77 202.34 61.29 202.34 Z M 27.58 211 C 21.61 211 16 205.89 16 197.98 L 16 54.08 C 16 46.81 21.08 41 27.64 41 L 94 41 C 101.07 41 106 47.34 106 53.9 L 106 197.86 C 106 206.41 99.81 211 94.63 211 Z" fill="#505050" stroke="none" pointer-events="all"/>
+        <rect x="376" y="71" width="39" height="77.14" rx="2.6" ry="2.6" fill="#cccccc" stroke="#6881b3" stroke-width="2.57" pointer-events="all"/>
+        <path d="M 376 83.86 L 415 83.86 M 376 109.57 L 415 109.57" fill="none" stroke="#6881b3" stroke-width="2.57" stroke-linejoin="round" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="402" y="77.43" width="104" height="57.86" fill="#cccccc" stroke="#6881b3" stroke-width="2.57" pointer-events="all"/>
+        <rect x="441" y="135.29" width="26" height="12.86" fill="#cccccc" stroke="#6881b3" stroke-width="2.57" pointer-events="all"/>
+        <path d="M 421.5 146.86 L 486.5 146.86 L 499.5 161 L 408.5 161 Z" fill="#cccccc" stroke="#6881b3" stroke-width="2.57" stroke-linejoin="round" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 439.7 157.79 L 463.1 157.79 M 422.8 153.93 L 473.5 153.93 M 425.4 150.07 L 472.2 150.07 M 476.1 150.07 L 485.2 150.07 M 478.7 153.93 L 487.8 153.93 M 481.3 157.79 L 490.4 157.79" fill="none" stroke="#6881b3" stroke-width="2.57" stroke-linejoin="round" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="405.9" y="81.29" width="94.9" height="50.14" fill="#ffffff" stroke="none" pointer-events="all"/>
+        <ellipse cx="382.5" cy="116" rx="2.6" ry="2.5714285714285716" fill="#ffffff" stroke="none" pointer-events="all"/>
+        <image x="115.5" y="10.5" width="58" height="58" xlink:href="data:image/png;base64,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" preserveAspectRatio="none"/>
+        <rect x="1" y="1" width="185" height="225" fill="none" stroke="#ff0000" stroke-width="2" pointer-events="all"/>
+        <rect x="6" y="11" width="90" height="20" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 88px; height: 1px; padding-top: 21px; margin-left: 7px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                今回作った部分
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="51" y="25" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    今回作った部分
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>
