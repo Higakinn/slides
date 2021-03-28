@@ -24,7 +24,7 @@ section {
 headingDivider: 1
 -->
 <!-- _paginate: false -->
-![bg 30%](./img/Flutterlogo.png)
+![bg 30%](./img/flutterlogo.png)
 
 <!-- # 目次
 - Flutterの概要と特徴
