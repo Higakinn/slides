@@ -1,5 +1,4 @@
 {
-    "__comment": "ディレクトリ名と出力フォーマットを指定",
-    "directory": "graphql_intro",
+    "directory": "test",
     "output_format": "pdf"
 }
