@@ -13,8 +13,9 @@ jobs:
           echo "::set-output name=FORMAT::${output_format}"
         id: config
       - run: ls -al flutter/ && ls -al graphql_intro/ &&
-             docker run --rm -u root --init -v "$(pwd):/home/marp/app/" 
-              -e LANG="ja_JP.UTF-8" marpteam/marp-cli ${{steps.config.outputs.DIR}}/slide.md 
+             docker run --rm --init -v "$(pwd):/home/marp/app/" 
+              -e LANG="ja_JP.UTF-8" -e MARP_USER="$(id -u):$(id -g)"
+              marpteam/marp-cli ${{steps.config.outputs.DIR}}/slide.md 
               --${{steps.config.outputs.FORMAT}} 
               -o ${{steps.config.outputs.DIR}}.${{steps.config.outputs.FORMAT}}
               --allow-local-files 
